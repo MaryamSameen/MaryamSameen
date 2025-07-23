@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Artificial Intelligence student** at National Textile University, Faisalabad, with a deep love for **Data Science**, **Artificial Intelligence**, and **Web Development**. Currently working as a **Data Science Intern at Data Zenix** and  **Machine Learning Intern at CodeCelix**, where I'm transforming data into actionable insights and building intelligent solutions.
+I'm a passionate **Artificial Intelligence student** at National Textile University, Faisalabad, with a deep love for **Data Science**, **Artificial Intelligence**, and **Web Development**. Currently working as a **Data Science Intern at Data Zenix** and **ML Intern at CodeCelix**, where I'm transforming data into actionable insights and building intelligent solutions.
 
 - 🔭 I'm currently working on **AI-powered applications** and **data-driven solutions**
 - 🌱 I'm constantly learning **Machine Learning**, **Deep Learning**, and **Advanced Analytics**
@@ -62,22 +62,24 @@ I'm a passionate **Artificial Intelligence student** at National Textile Univers
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaryamSameen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamSameen&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaryamSameen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamSameen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaryamSameen&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=MaryamSameen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaryamSameen&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MaryamSameen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Contribution Graph
+## 📈 Activity Overview
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryamSameen&theme=tokyo-night" alt="Contribution Graph"/>
+  
+![](https://github-readme-stats.vercel.app/api?username=MaryamSameen&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+
 </div>
 
 ## 🎯 Current Focus
@@ -104,17 +106,3 @@ I'm a passionate **Artificial Intelligence student** at National Textile Univers
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=MaryamSameen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
-<!--
-**MaryamSameen/MaryamSameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
