@@ -1,141 +1,238 @@
-# Hi there, I'm Maryam Sameen! 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Enthusiast;AI+%26+ML+Developer;Full+Stack+Developer;IoT+Solutions+Engineer" alt="Typing SVG"/>
+
+# Maryam Sameen
+
+**Machine Learning Engineer | Full Stack Developer | AI Student at National Textile University**
+
+[![GitHub followers](https://img.shields.io/github/followers/MaryamSameen?style=flat-square&logo=github)](https://github.com/MaryamSameen)
+[![Profile Views](https://komarev.com/ghpvc/?username=MaryamSameen&style=flat-square&color=blue)](https://github.com/MaryamSameen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maryam-sameen/)
+
+[Portfolio](#featured-projects) • [Experience](#professional-experience) • [Skills](#technical-expertise)
+
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate **Artificial Intelligence student** at National Textile University, Faisalabad, with expertise in **Data Science**, **Machine Learning**, **IoT Solutions**, and **Full Stack Development**. I specialize in building intelligent systems that solve real-world problems through data-driven insights and cutting-edge AI technologies.
+## About
 
-- 🔭 I'm currently working on **AI-powered applications**, **NLP solutions**, and **IoT systems**
-- 🌱 I'm constantly learning **Deep Learning**, **Computer Vision**, **NLP**, and **Edge AI**
-- 👯 I'm looking to collaborate on **innovative AI projects** and **open-source contributions**
-- 🤔 I'm interested in **Natural Language Processing**, **Speech Recognition**, **IoT with AI**, and **Customer Analytics**
-- 💬 Ask me about **Python**, **Machine Learning**, **Streamlit Apps**, **IoT**, or **Web Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maryam-sameen/)
-- ⚡ Fun fact: I love turning complex problems into elegant solutions!
+I am an Artificial Intelligence student at National Textile University, Faisalabad, specializing in Machine Learning, Natural Language Processing, and Computer Vision. My work focuses on developing intelligent systems that bridge the gap between cutting-edge AI research and practical applications. With experience across multiple internships and a diverse project portfolio, I build scalable solutions in AI, IoT, and full-stack development.
 
-## 🛠️ Tech Stack
+**Current Focus:** Advanced NLP, Speech Recognition, IoT with Edge AI, Deep Learning Architectures
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+---
 
-### Data Science & ML/AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
+## Professional Experience
+
+### Machine Learning Intern
+**CosmiCode** | 2024  
+Developing cutting-edge ML solutions and AI systems using Python and modern ML frameworks. Focus on building production-ready machine learning models and intelligent applications.  
+[View Repository](https://github.com/MaryamSameen/CosmiCode-Internship)
+
+### Data Science Intern
+**Data Zenix** | 2024  
+Building predictive models and analyzing complex datasets using Python data science stack. Working on real-world data analytics solutions and visualization dashboards.  
+[View Repository](https://github.com/MaryamSameen/Data-Zenix-Internship)
+
+### Data Science Intern
+**Elevvo** | 2024  
+Advanced analytics implementation including customer segmentation, movie recommendation systems, and interactive Streamlit dashboards for data-driven decision making.  
+[View Repository](https://github.com/MaryamSameen/Elevvo-Internship)
+
+---
+
+## Featured Projects
+
+### Artificial Intelligence & Machine Learning
+
+**[Speech-to-Text Converter for English and Roman Urdu](https://github.com/MaryamSameen/Speech-To-Text-Converter-for-English-and-Roman-Urdu)**  
+Advanced multilingual speech recognition system using OpenAI Whisper for accurate transcription of English and Roman Urdu. Implements state-of-the-art audio processing techniques.  
+`Python` `Whisper` `Speech Recognition` `Audio Processing` `NLP`
+
+**[Fashion Recommendation System](https://github.com/MaryamSameen/Fashion-Recommendation-System)**  
+AI-powered fashion recommendation engine using ResNet50 for feature extraction and KNN for similarity matching. Built with Streamlit for an interactive user experience.  
+`Python` `ResNet50` `Computer Vision` `Deep Learning` `Streamlit` `KNN`
+
+**[Image Caption Generator](https://github.com/MaryamSameen/Image-Caption-Generator)**  
+Automatic image captioning system combining InceptionV3 for visual feature extraction and LSTM networks for natural language generation. Trained on labeled datasets for accessibility applications.  
+`Python` `TensorFlow` `InceptionV3` `LSTM` `Computer Vision` `NLP`
+
+**[Named Entity Recognition System](https://github.com/MaryamSameen/Named-Entity-Recognizition)**  
+NLP solution using spaCy for intelligent entity extraction and classification from unstructured text data. Enables automated information retrieval from documents.  
+`Python` `spaCy` `NLP` `Entity Extraction` `Text Processing`
+
+**[NLP Text Summarization](https://github.com/MaryamSameen/NLP-Text-Summarization-Project)**  
+Advanced text summarization system leveraging natural language processing techniques for automatic content condensation and key information extraction.  
+`Python` `NLP` `Machine Learning` `Text Analysis`
+
+**[Customer Segmentation System](https://github.com/MaryamSameen/PRODIGY_ML_02)**  
+K-Means clustering solution for customer analytics with interactive Streamlit dashboard. Enables data-driven marketing strategies through intelligent segmentation.  
+`Python` `K-Means` `Clustering` `Data Analytics` `Streamlit` `Visualization`
+
+**[Eve Chatbot](https://github.com/MaryamSameen/Eve-Chatbot-FAQs-Based-)**  
+FAQ-based intelligent chatbot solution for automated customer support and information retrieval.  
+`Python` `NLP` `Chatbot` `Conversational AI`
+
+**[AI Class Assistant](https://github.com/SubainaNorab/AI-Class-Assistant)**  
+Intelligent classroom assistant leveraging AI to enhance educational experiences and streamline learning processes. Collaborative project for education technology.  
+`JavaScript` `Python` `AI` `Education Technology`
+
+---
 
 ### Web Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+**[NextGen Tech Website](https://github.com/MaryamSameen/NextGen-Tech-Website)**  
+Modern, scalable web platform designed for tech startups. Features secure authentication, admin dashboard, and component-based architecture built with Next.js, TypeScript, and MongoDB.  
+`Next.js` `TypeScript` `MongoDB` `React` `Authentication` `Full Stack`
 
-## 🌟 Featured Projects
+**[Social Post Automation](https://github.com/MaryamSameen/SocialPostAutomation)**  
+Automated social media management platform with LinkedIn API integration, intelligent post scheduling, and media upload capabilities. Built with Flask and SQLAlchemy.  
+`Python` `Flask` `LinkedIn API` `SQLAlchemy` `Task Scheduling` `Automation`
 
-### 🤖 AI & Machine Learning
+---
 
-- **[Speech-to-Text Converter (English & Roman Urdu)](https://github.com/MaryamSameen/Speech-To-Text-Converter-for-English-and-Roman-Urdu)** - Advanced speech recognition system using OpenAI Whisper for multilingual transcription with Streamlit interface
+### IoT & Hardware
 
-- **[Named Entity Recognition](https://github.com/MaryamSameen/Named-Entity-Recognizition)** - NLP solution using spaCy for intelligent entity extraction and classification from text
+**[IoT Water Level Monitoring System](https://github.com/MaryamSameen/IoT-AI-based-Water-level-Monitoring-System)**  
+AI-powered IoT solution for smart water management with real-time monitoring and predictive analytics for resource optimization.  
+`IoT` `AI` `ESP32` `Sensor Integration` `Smart Systems`
 
-- **[Fashion Recommendation System](https://github.com/MaryamSameen/Fashion-Recommendation-System)** - Smart clothing recommendation using ResNet50 and KNN with Streamlit interface
+**[IoT Labs Portfolio](https://github.com/MaryamSameen/IoT_Labs)**  
+Comprehensive collection of IoT projects featuring ESP32, MicroPython, sensor integration (DHT22), OLED displays, and TinyML implementations for edge computing.  
+`IoT` `ESP32` `MicroPython` `TinyML` `Edge Computing` `Sensors`
 
-- **[Image Caption Generator](https://github.com/MaryamSameen/Image-Caption-Generator)** - Deep learning model combining InceptionV3 and LSTM for automatic image captioning
+---
 
-- **[Customer Segmentation System](https://github.com/MaryamSameen/PRODIGY_ML_02)** - K-Means clustering solution for customer analytics with interactive Streamlit dashboard
+### Mobile Development
 
-- **[Eve Chatbot](https://github.com/MaryamSameen/Eve-Chatbot-FAQs-Based-)** - FAQ-based intelligent chatbot solution
+**[Habiti - Habit Tracking Application](https://github.com/MaryamSameen/Habiti--Habit-Tracking-Mobile-App)**  
+Cross-platform mobile application for building and tracking positive habits with intuitive UI/UX design and data persistence.  
+`Flutter` `Dart` `Mobile Development` `Cross-platform` `UI/UX`
 
-### 🌐 Web Development
+---
 
-- **[NextGen Tech Website](https://github.com/MaryamSameen/NextGen-Tech-Website)** - Modern, scalable web platform for tech startups built with Next.js, TypeScript, and MongoDB
+### Hackathons & Competitions
 
-### 🔧 IoT & Hardware
+**[Vibe Hackathon 2025](https://github.com/MaryamSameen/VibeHackathon-2025)**  
+Innovative solution developed during Vibe Hackathon 2025, showcasing rapid prototyping and problem-solving skills under time constraints.  
+`TypeScript` `JavaScript` `Rapid Development` `Innovation`
 
-- **[IoT Water Level Monitoring System](https://github.com/MaryamSameen/IoT-AI-based-Water-level-Monitoring-System)** - AI-powered IoT solution for smart water management
+---
 
-- **[IoT Labs Portfolio](https://github.com/MaryamSameen/IoT_Labs)** - Comprehensive collection of IoT projects with ESP32, MicroPython, sensors (DHT22), OLED displays, and TinyML implementations
+## Technical Expertise
 
-### 💼 Professional Experience
+### Programming Languages
+`Python` `JavaScript` `TypeScript` `Dart` `C++` `MicroPython` `SQL` `HTML/CSS`
 
-- **[Elevvo Internship Projects](https://github.com/MaryamSameen/Elevvo-Internship)** - Customer segmentation, movie recommendation systems, and data analytics solutions with interactive Streamlit applications
+### AI & Machine Learning
+**Deep Learning:** TensorFlow, Keras, PyTorch, Transfer Learning (ResNet50, InceptionV3)  
+**Computer Vision:** OpenCV, Image Classification, Feature Extraction, Object Recognition  
+**Natural Language Processing:** spaCy, Whisper, Named Entity Recognition, Text Summarization, Speech Recognition  
+**Machine Learning:** Supervised/Unsupervised Learning, K-Means Clustering, Classification, Regression  
+**Recommendation Systems:** Collaborative Filtering, Content-based Filtering, KNN
 
-- **[Data Zenix Internship Tasks](https://github.com/MaryamSameen/Data-Zenix-Internship)** - Collection of real-world data science projects and analytics solutions
+### Web Development
+**Frontend:** React, Next.js, TypeScript, Responsive Design, Component Architecture  
+**Backend:** Flask, Node.js, RESTful APIs, Authentication, Server-side Rendering  
+**Databases:** MongoDB, SQLite, SQLAlchemy  
+**Tools:** Streamlit, Plotly, Data Visualization
 
-## 📊 GitHub Stats
+### IoT & Embedded Systems
+**Hardware:** ESP32, Arduino, Sensor Integration (DHT22)  
+**Platforms:** MicroPython, TinyML, Edge Computing  
+**Applications:** Smart Monitoring Systems, Real-time Data Processing
+
+### Mobile Development
+**Framework:** Flutter  
+**Language:** Dart  
+**Focus:** Cross-platform Applications, UI/UX Design
+
+### Data Science & Analytics
+**Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+**Tools:** Jupyter Notebook, Statistical Analysis  
+**Techniques:** Data Preprocessing, Feature Engineering, Model Evaluation, Visualization
+
+### Development Tools & Practices
+`Git` `GitHub` `VS Code` `Postman` `Docker` `CI/CD` `Version Control` `Agile` `Testing`
+
+---
+
+## Project Portfolio Overview
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaryamSameen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamSameen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+| Category | Projects | Technologies |
+|:---------|:--------:|:-------------|
+| AI/ML & Deep Learning | 8 | Python, TensorFlow, NLP, Computer Vision, Speech Recognition |
+| Web Development | 2 | TypeScript, Next.js, Flask, MongoDB, React |
+| Mobile Applications | 1 | Flutter, Dart, Cross-platform |
+| IoT & Hardware | 2 | ESP32, MicroPython, TinyML, Sensors |
+| Data Science | 3 | Python, Jupyter, Pandas, Analytics |
+| Hackathons | 1 | TypeScript, JavaScript |
+
+**Total Public Repositories:** 14+ | **Active Internships:** 3 | **Tech Stack Proficiency:** 20+ Technologies
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MaryamSameen&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamSameen&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MaryamSameen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=MaryamSameen&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaryamSameen&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
+---
 
-## 📈 Activity Overview
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=MaryamSameen&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+## Key Achievements
 
-</div>
+- Successfully completed multiple concurrent internships in Machine Learning and Data Science
+- Developed 14+ production-ready repositories spanning AI, web, mobile, and IoT development
+- Built multilingual speech recognition systems supporting English and Roman Urdu
+- Implemented deep learning models using state-of-the-art architectures (ResNet50, InceptionV3, LSTM)
+- Created end-to-end AI solutions with interactive Streamlit dashboards
+- Contributed to collaborative AI projects in education technology
+- Participated in competitive hackathons with innovative solutions
+- Integrated IoT systems with AI for smart monitoring and edge computing
+- Maintained consistent open-source contributions with active GitHub presence
 
-## 🎯 Current Focus
+---
 
-- 🔬 **Research**: Exploring NLP, Speech Recognition, and advanced deep learning architectures
-- 📊 **Analytics**: Building comprehensive data pipelines, customer segmentation, and visualization dashboards
-- 🚀 **Innovation**: Developing AI-powered solutions with Streamlit for real-world problems
-- 🌱 **Growth**: Expanding expertise in Edge AI, TinyML, IoT integration, and MLOps
-- 🎙️ **NLP Projects**: Working on multilingual speech-to-text and entity recognition systems
+## Research Interests
 
-## 💡 Key Skills & Expertise
+- Advanced Natural Language Processing and Multilingual Models
+- Speech Recognition and Audio Processing
+- Computer Vision and Image Understanding
+- Edge AI and TinyML for Resource-Constrained Devices
+- Recommendation Systems and Personalization
+- IoT Integration with Machine Learning
+- MLOps and Production ML Systems
 
-- **Machine Learning**: Supervised/Unsupervised Learning, Clustering (K-Means), Classification, Regression
-- **Deep Learning**: CNNs, LSTMs, Transfer Learning (ResNet50, InceptionV3)
-- **NLP**: Named Entity Recognition (spaCy), Speech Recognition (Whisper), Text Processing
-- **Computer Vision**: Image Classification, Feature Extraction, Object Recognition
-- **IoT & Embedded**: ESP32, MicroPython, Sensor Integration, TinyML, Edge Computing
-- **Data Analytics**: Customer Segmentation, Data Visualization, Statistical Analysis
-- **Web Development**: Streamlit, Next.js, React, Full Stack Applications
-- **Tools**: Jupyter, Git, Plotly, Arduino IDE, Wokwi Simulator
+---
 
-## 🤝 Let's Connect!
+## Connect
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sameen/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaryamSameen)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sameen/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaryamSameen)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From [MaryamSameen](https://github.com/MaryamSameen) with ❤️</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=MaryamSameen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+**Open to collaboration on AI/ML research projects and innovative software solutions**
+
+*Artificial Intelligence Student at National Textile University, Faisalabad*
+
 </div>
