@@ -16,7 +16,7 @@
 
 ## About
 
-I am an Artificial Intelligence student at National Textile University, Faisalabad, specializing in Machine Learning, Natural Language Processing, and Computer Vision. My work focuses on developing intelligent systems that bridge the gap between cutting-edge AI research and practical applications. With experience across multiple internships and a diverse project portfolio, I build scalable solutions in AI, IoT, and full-stack development.
+I am an Artificial Intelligence student at National Textile University, Faisalabad, specializing in Machine Learning, Natural Language Processing, and Computer Vision. My work focuses on developing intelligent systems that solve real-world problems through innovative AI solutions.
 
 **Current Focus:** Advanced NLP, Speech Recognition, IoT with Edge AI, Deep Learning Architectures
 
@@ -57,6 +57,10 @@ AI-powered fashion recommendation engine using ResNet50 for feature extraction a
 Automatic image captioning system combining InceptionV3 for visual feature extraction and LSTM networks for natural language generation. Trained on labeled datasets for accessibility applications.  
 `Python` `TensorFlow` `InceptionV3` `LSTM` `Computer Vision` `NLP`
 
+**[Real and Fake Job Posting Classifier](https://github.com/MaryamSameen/Real-and-Fake-Job-Posting-Classifier)**  
+Machine learning classifier to detect fraudulent job postings and protect job seekers from scams. Uses NLP and classification algorithms to identify fake job advertisements.  
+`Python` `Jupyter Notebook` `NLP` `Classification` `Machine Learning`
+
 **[Named Entity Recognition System](https://github.com/MaryamSameen/Named-Entity-Recognizition)**  
 NLP solution using spaCy for intelligent entity extraction and classification from unstructured text data. Enables automated information retrieval from documents.  
 `Python` `spaCy` `NLP` `Entity Extraction` `Text Processing`
@@ -89,6 +93,10 @@ Modern, scalable web platform designed for tech startups. Features secure authen
 Automated social media management platform with LinkedIn API integration, intelligent post scheduling, and media upload capabilities. Built with Flask and SQLAlchemy.  
 `Python` `Flask` `LinkedIn API` `SQLAlchemy` `Task Scheduling` `Automation`
 
+**[Scholarship Eligibility Criteria Checking System](https://github.com/MaryamSameen/Scholarship-Eligibility-crieteria-Checking-System)**  
+Web-based system to streamline scholarship application process by automatically checking eligibility criteria and providing instant feedback to applicants.  
+`HTML` `Web Development` `Form Validation`
+
 ---
 
 ### IoT & Hardware
@@ -116,6 +124,10 @@ Cross-platform mobile application for building and tracking positive habits with
 **[Vibe Hackathon 2025](https://github.com/MaryamSameen/VibeHackathon-2025)**  
 Innovative solution developed during Vibe Hackathon 2025, showcasing rapid prototyping and problem-solving skills under time constraints.  
 `TypeScript` `JavaScript` `Rapid Development` `Innovation`
+
+**[vibehackathon2025](https://github.com/MaryamSameen/vibehackathon2025)**  
+Hackathon project submission for vibehackathon2025, demonstrating creative problem-solving and technical implementation under competitive conditions.  
+`Hackathon` `Innovation` `Rapid Development`
 
 ---
 
@@ -163,14 +175,14 @@ Innovative solution developed during Vibe Hackathon 2025, showcasing rapid proto
 
 | Category | Projects | Technologies |
 |:---------|:--------:|:-------------|
-| AI/ML & Deep Learning | 8 | Python, TensorFlow, NLP, Computer Vision, Speech Recognition |
-| Web Development | 2 | TypeScript, Next.js, Flask, MongoDB, React |
+| AI/ML & Deep Learning | 9 | Python, TensorFlow, NLP, Computer Vision, Speech Recognition |
+| Web Development | 3 | TypeScript, Next.js, Flask, MongoDB, React, HTML |
 | Mobile Applications | 1 | Flutter, Dart, Cross-platform |
 | IoT & Hardware | 2 | ESP32, MicroPython, TinyML, Sensors |
 | Data Science | 3 | Python, Jupyter, Pandas, Analytics |
-| Hackathons | 1 | TypeScript, JavaScript |
+| Hackathons | 2 | TypeScript, JavaScript |
 
-**Total Public Repositories:** 14+ | **Active Internships:** 3 | **Tech Stack Proficiency:** 20+ Technologies
+**Total Public Repositories:** 17+ | **Active Internships:** 3 | **Tech Stack Proficiency:** 20+ Technologies
 
 </div>
 
@@ -194,7 +206,7 @@ Innovative solution developed during Vibe Hackathon 2025, showcasing rapid proto
 ## Key Achievements
 
 - Successfully completed multiple concurrent internships in Machine Learning and Data Science
-- Developed 14+ production-ready repositories spanning AI, web, mobile, and IoT development
+- Developed 17+ production-ready repositories spanning AI, web, mobile, and IoT development
 - Built multilingual speech recognition systems supporting English and Roman Urdu
 - Implemented deep learning models using state-of-the-art architectures (ResNet50, InceptionV3, LSTM)
 - Created end-to-end AI solutions with interactive Streamlit dashboards
