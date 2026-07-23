@@ -2,13 +2,14 @@
 
 # Maryam Sameen
 
-**Machine Learning Engineer | Full Stack Developer | AI Student at National Textile University**
+**Machine Learning Engineer | Full Stack Developer | BSAI Graduate, First Position FYP | National Textile University**
 
 [![GitHub followers](https://img.shields.io/github/followers/MaryamSameen?style=flat-square&logo=github)](https://github.com/MaryamSameen)
 [![Profile Views](https://komarev.com/ghpvc/?username=MaryamSameen&style=flat-square&color=blue)](https://github.com/MaryamSameen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9C27B0?style=flat-square&logo=vercel)](https://maryamsameen.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/maryam-sameen/)
 
-[Portfolio](#featured-projects) • [Experience](#professional-experience) • [Skills](#technical-expertise)
+[Portfolio](#portfolio) • [Featured Projects](#featured-projects) • [Experience](#professional-experience) • [Skills](#technical-expertise)
 
 </div>
 
@@ -16,9 +17,17 @@
 
 ## About
 
-I am an Artificial Intelligence student at National Textile University, Faisalabad, specializing in Machine Learning, Natural Language Processing, and Computer Vision. My work focuses on developing intelligent systems that solve real-world problems through innovative AI solutions.
+I am a **Bachelor of Science in Artificial Intelligence graduate from National Textile University, Faisalabad** with a stellar **CGPA of 3.84** and **First Position in FYP Display** for the BSAI Batch 2022-2026.
 
-**Current Focus:** Advanced NLP, Speech Recognition, IoT with Edge AI, Deep Learning Architectures
+As a Machine Learning Engineer and Full Stack Developer, I specialize in building innovative AI solutions, machine learning models, and scalable web applications. My work focuses on developing cutting-edge technologies that solve real-world problems through intelligent automation, natural language processing, and computer vision.
+
+**Current Focus:** Advanced NLP, Speech Recognition, AI in Education Technology, IoT with Edge AI, Deep Learning Architectures, Production ML Systems
+
+---
+
+## Portfolio
+
+📊 **[Visit My Portfolio Website](https://maryamsameen.vercel.app)** - Explore my complete project portfolio, case studies, and professional experience.
 
 ---
 
@@ -42,6 +51,14 @@ Advanced analytics implementation including customer segmentation, movie recomme
 ---
 
 ## Featured Projects
+
+### 🌟 Flagship Project
+
+**[AssaanLearn - AI-Powered Learning Platform](https://github.com/MaryamSameen/AssaanLearn)**  
+A comprehensive AI-powered learning management system designed to revolutionize education through intelligent, personalized learning experiences. Built with cutting-edge full-stack technologies to provide adaptive learning paths, real-time feedback, and interactive educational content.  
+`React` `Next.js` `TypeScript` `AI Integration` `Full Stack` `Education Technology` `Responsive Design`
+
+---
 
 ### Artificial Intelligence & Machine Learning
 
@@ -176,15 +193,24 @@ Hackathon project submission for vibehackathon2025, demonstrating creative probl
 | Category | Projects | Technologies |
 |:---------|:--------:|:-------------|
 | AI/ML & Deep Learning | 9 | Python, TensorFlow, NLP, Computer Vision, Speech Recognition |
-| Web Development | 3 | TypeScript, Next.js, Flask, MongoDB, React, HTML |
+| Web Development | 4 | TypeScript, Next.js, Flask, MongoDB, React, HTML |
 | Mobile Applications | 1 | Flutter, Dart, Cross-platform |
 | IoT & Hardware | 2 | ESP32, MicroPython, TinyML, Sensors |
 | Data Science | 3 | Python, Jupyter, Pandas, Analytics |
 | Hackathons | 2 | TypeScript, JavaScript |
 
-**Total Public Repositories:** 17+ | **Active Internships:** 3 | **Tech Stack Proficiency:** 20+ Technologies
+**Total Public Repositories:** 18+ | **Active Internships:** 3 | **Tech Stack Proficiency:** 20+ Technologies
 
 </div>
+
+---
+
+## Academic Achievements
+
+- 🎓 **BSAI Graduate** - National Textile University, Faisalabad (Batch 2022-2026)
+- 📈 **CGPA: 3.84** - Consistent academic excellence
+- 🥇 **First Position in FYP Display** - BSAI Batch 2022-2026
+- 🏆 Successfully completed multiple concurrent internships during studies
 
 ---
 
@@ -205,15 +231,17 @@ Hackathon project submission for vibehackathon2025, demonstrating creative probl
 
 ## Key Achievements
 
-- Successfully completed multiple concurrent internships in Machine Learning and Data Science
-- Developed 17+ production-ready repositories spanning AI, web, mobile, and IoT development
-- Built multilingual speech recognition systems supporting English and Roman Urdu
-- Implemented deep learning models using state-of-the-art architectures (ResNet50, InceptionV3, LSTM)
-- Created end-to-end AI solutions with interactive Streamlit dashboards
-- Contributed to collaborative AI projects in education technology
-- Participated in competitive hackathons with innovative solutions
-- Integrated IoT systems with AI for smart monitoring and edge computing
-- Maintained consistent open-source contributions with active GitHub presence
+- ✨ BSAI Graduate with 3.84 CGPA and First Position in FYP Display (Batch 2022-2026)
+- 🏆 Successfully completed multiple concurrent internships in Machine Learning and Data Science
+- 📊 Developed 18+ production-ready repositories spanning AI, web, mobile, and IoT development
+- 🌐 Built multilingual speech recognition systems supporting English and Roman Urdu
+- 🤖 Implemented deep learning models using state-of-the-art architectures (ResNet50, InceptionV3, LSTM)
+- 📚 Launched AssaanLearn, an innovative AI-powered learning platform for education transformation
+- 💡 Created end-to-end AI solutions with interactive Streamlit dashboards
+- 👥 Contributed to collaborative AI projects in education technology
+- 🚀 Participated in competitive hackathons with innovative solutions
+- 🔌 Integrated IoT systems with AI for smart monitoring and edge computing
+- 📈 Maintained consistent open-source contributions with active GitHub presence
 
 ---
 
@@ -226,6 +254,7 @@ Hackathon project submission for vibehackathon2025, demonstrating creative probl
 - Recommendation Systems and Personalization
 - IoT Integration with Machine Learning
 - MLOps and Production ML Systems
+- AI in Education Technology
 
 ---
 
@@ -233,9 +262,9 @@ Hackathon project submission for vibehackathon2025, demonstrating creative probl
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9C27B0?style=flat-square&logo=vercel&logoColor=white)](https://maryamsameen.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sameen/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaryamSameen)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
@@ -245,6 +274,6 @@ Hackathon project submission for vibehackathon2025, demonstrating creative probl
 
 **Open to collaboration on AI/ML research projects and innovative software solutions**
 
-*Artificial Intelligence Student at National Textile University, Faisalabad*
+*BSAI Graduate from National Textile University, Faisalabad | First Position FYP Display*
 
 </div>
